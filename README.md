@@ -1,6 +1,6 @@
 # Hi there, I'm Shital Magdum 👋 
 
-I'm a **Senior Technical Writer** at Whirlpool Corporation, specializing in creating clear, concise, and user-friendly documentation. With over **5 years of experience** in technical writing and engineering roles, I am passionate about enhancing the user experience through precise and well-organized documentation. Currently, I’m expanding my knowledge in **software documentation** with a focus on tools that integrate documentation and code.
+I'm a **Senior Technical Writer** at Whirlpool Corporation, specializing in creating clear, concise, and user-friendly documentation. With over **5.5 years of experience** in technical writing and engineering roles, I am passionate about enhancing the user experience through precise and well-organized documentation. Currently, I’m expanding my knowledge in **software documentation** with a focus on tools that integrate documentation and code.
 
 ## 🔧 What I Do:
 - **[Maintaining and Updating Online Help](https://producthelp.whirlpool.com/)** at Whirlpool.
